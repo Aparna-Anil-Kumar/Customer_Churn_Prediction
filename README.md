@@ -70,3 +70,9 @@ Models were evaluated using:
 - Accuracy Score
 - Confusion Matrix
 - Classification Report
+
+### 7. Feature Importance
+Feature importance analysis was performed using LightGBM to identify the most influential factors affecting customer churn.
+
+### 8. Prediction
+The trained model was used to predict whether a customer is likely to churn or not.
