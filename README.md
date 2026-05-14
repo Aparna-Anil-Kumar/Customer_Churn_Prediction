@@ -85,3 +85,6 @@ The trained model was used to predict whether a customer is likely to churn or n
 1. Open the notebook in Google Colab or Jupyter Notebook
 2. Install required libraries
 3. Run all notebook cells sequentially
+
+## Author
+Aparna A K
