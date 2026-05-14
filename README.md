@@ -64,3 +64,9 @@ The following machine learning models were trained and evaluated:
 - Random Forest Classifier
 - LightGBM Classifier
 - Support Vector Classifier (SVC)
+
+### 6. Model Evaluation
+Models were evaluated using:
+- Accuracy Score
+- Confusion Matrix
+- Classification Report
