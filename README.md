@@ -57,3 +57,10 @@ EDA helped identify patterns related to customer churn.
 - Applied One-Hot Encoding using `pd.get_dummies()` for multi-category columns
 - Aligned train and test datasets after encoding
 - Applied Standard Scaling where required
+
+### 5. Model Building
+The following machine learning models were trained and evaluated:
+- Logistic Regression
+- Random Forest Classifier
+- LightGBM Classifier
+- Support Vector Classifier (SVC)
