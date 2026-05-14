@@ -76,3 +76,12 @@ Feature importance analysis was performed using LightGBM to identify the most in
 
 ### 8. Prediction
 The trained model was used to predict whether a customer is likely to churn or not.
+
+## Results
+- Multiple classification algorithms were compared.
+- LightGBM achieved strong performance for churn prediction.
+
+## How to Run the Project
+1. Open the notebook in Google Colab or Jupyter Notebook
+2. Install required libraries
+3. Run all notebook cells sequentially
