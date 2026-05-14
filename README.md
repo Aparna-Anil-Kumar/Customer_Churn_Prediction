@@ -40,3 +40,12 @@ The dataset contains customer information such as:
 - Checked for missing values
 - Checked for duplicate records
 - Removed unnecessary columns such as `customer ID`
+
+### 3. Exploratory Data Analysis (EDA)
+Performed visual analysis using:
+- Count plots
+- Histograms
+- Box plots
+- Correlation analysis
+
+EDA helped identify patterns related to customer churn.
