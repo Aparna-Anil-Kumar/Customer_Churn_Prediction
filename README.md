@@ -49,3 +49,11 @@ Performed visual analysis using:
 - Correlation analysis
 
 EDA helped identify patterns related to customer churn.
+
+### 4. Data Preprocessing
+- Split features and target variable
+- Performed train-test split
+- Applied Label Encoding for binary categorical columns
+- Applied One-Hot Encoding using `pd.get_dummies()` for multi-category columns
+- Aligned train and test datasets after encoding
+- Applied Standard Scaling where required
